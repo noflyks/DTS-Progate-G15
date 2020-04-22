@@ -1,7 +1,5 @@
 @media all and (max-width: 1000px) {
- .menu-icon {
-  display: none;
-  }
+ 
 }
 
 @media all and (max-width: 670px) {
@@ -10,6 +8,6 @@
   }
   
  .menu-icon {
-  display: block;
+  display: none;
   }
 }
