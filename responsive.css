@@ -3,11 +3,11 @@
 }
 
 @media all and (max-width: 670px) {
-  .header-right {
-    display: none;
-  }
+.header-right {
+  display: none;
+ }
   
-  .menu-icon {
-    display: block;
-  }
+.menu-icon {
+ display: block;
+ }
 }
