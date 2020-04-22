@@ -1,13 +1,15 @@
 @media all and (max-width: 1000px) {
- 
+ .menu-icon {
+  display: none;
+  }
 }
 
 @media all and (max-width: 670px) {
-.header-right {
+ .header-right {
   display: none;
- }
+  }
   
-.menu-icon {
- display: block;
- }
+ .menu-icon {
+  display: block;
+  }
 }
