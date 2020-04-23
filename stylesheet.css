@@ -116,3 +116,55 @@ main h1{
   font-size: 20px;
   font-weight: bold;
 }
+
+.ekstra-1 {
+  height: 300px;
+  padding-bottom: 80px;
+  background-color: #fff;
+  text-align: center;
+}
+
+.heading {
+  padding-top: 60px;
+  padding-bottom: 30px;
+  color: #5f5d60;
+}
+
+.heading h2 {
+  font-weight: normal;
+}
+
+.ekstra {
+  float: left;
+  width: 25%;
+  border: 10px;
+}
+
+.ekstra-icon {
+  position: relative; 
+  margin-right: 20px;
+ 
+
+}
+
+.ekstra-icon p:hover {
+  transform: scale(1.5,2);
+}
+
+.ekstra-icon p {
+  position: absolute;
+  margin-top: 80px;
+  top: 90px;
+  width: 100%;
+  color: #fff;
+  transition: 1s;
+
+}
+
+.txt-contents {
+  width: 80%;
+  display: inline-block;
+  margin-top: 20px;
+  font-size: 15px;
+  color: #b3aeb5;
+}
