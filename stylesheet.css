@@ -168,3 +168,72 @@ main h1{
   font-size: 15px;
   color: #b3aeb5;
 }
+
+.clear{
+  clear: left;
+}
+.extra{
+  padding-bottom: 90px;
+  text-align: center;
+  background-color: #FAF0E6;
+}
+
+.heading-extra {
+  padding-top: 30px;
+  padding-bottom: 10px;
+  color: #5f5d60;
+}
+
+.heading-extra h2{
+  font-family: 'Oleo Script', cursive;
+  font-size:50px;
+}
+
+.profil-img {
+  width:19%;
+  height:300px;
+  overflow:hidden;
+  float:left;
+  position: relative;
+}
+
+.profil-img h4{
+  font-family: 'Acme', sans-serif;
+  font-size: 19px;
+}
+.profil-img h5{
+  font-family: 'Acme', sans-serif;
+  font-size: 16px;
+}
+
+.img-box img{
+  border-radius: 50%;
+  width:180px;
+  height: 180px;
+}
+.profil-content p{
+  font-family: 'Rancho', cursive;
+  text-align: justify;
+  font-size: 19px;
+}
+.img-box{
+  height:200px;
+  transition:margin-top .4s ease-in-out .4s;
+  padding: 15px;
+}
+.profil-content {
+  height:400px;
+  transition:margin-top .4s ease-in-out .4s;
+  padding: 15px;
+}
+
+.profil-content h4,
+.profil-content p {
+  margin:0 0 .2em;
+  line-height: 30px;
+
+}
+
+.profil-img:hover .img-box {
+  margin-top:-320px;
+}
