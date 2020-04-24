@@ -15,6 +15,9 @@
   .profil-img {
     width: 100%;
   }
+  .heading-extra h2{
+    font-size: 30px;
+  }
 
  .profil-img:hover .img-box {
   margin-top:-70%;
