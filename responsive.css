@@ -19,6 +19,10 @@
     font-size: 30px;
   }
 
+  .ekstra{
+    width: 100%;
+  }
+
  .profil-img:hover .img-box {
   margin-top:-70%;
 }
