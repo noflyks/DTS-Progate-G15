@@ -3,7 +3,7 @@
 }
 
 body {
-  margin: 0;
+  margin: 0 auto;
   font-family: "Lucida Grande";
 }
 
@@ -34,10 +34,12 @@ header {
 
 .header-left {
   float: left;
+  margin-top: -14px;
 }
 
-.header-left h3 {
-  color: #c9d1c8;
+.header-left img {
+  width: 150px;
+  margin-bottom: 10px;
 }
 
 .header-right {
@@ -123,14 +125,14 @@ main h1{
 }
 
 .ekstra-1 {
-  height: 300px;
+  height: 500px;
   padding-bottom: 80px;
   background-color: #fff;
   text-align: center;
 }
 
 .heading {
-  padding-top: 60px;
+  padding-top: 30px;
   padding-bottom: 30px;
   color: #5f5d60;
 }
@@ -146,9 +148,9 @@ main h1{
 }
 
 .ekstra-icon {
-  position: relative; 
+  position: relative;
   margin-right: 20px;
- 
+
 
 }
 
@@ -191,12 +193,13 @@ main h1{
 
 .heading-extra h2{
   font-family: 'Oleo Script', cursive;
-  font-size:50px;
+  font-size: 50px;
 }
 
 .profil-img {
   width:19%;
-  height:300px;
+  height:320px;
+  margin-right: 10px;
   overflow:hidden;
   float:left;
   position: relative;
@@ -243,17 +246,12 @@ main h1{
   margin-top:-320px;
 }
 
-body {
-    margin: 0 auto;
-    font-family: monospace;
-}
-
 .footer {
     opacity: 0,5;
     letter-spacing: 1px;
 }
 
-.container {
+/* .container-2 {
     display: block;
     height: 200px;
     background-image: url(https://cdn.pixabay.com/photo/2015/12/04/14/05/code-1076536_960_720.jpg);
@@ -261,7 +259,7 @@ body {
     color: white;
     padding: 10px 30px;
     text-align: left;
-}
+} */
 
 .footer-left {
     float: left;
