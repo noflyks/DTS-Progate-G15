@@ -30,6 +30,9 @@
  .profil-img:hover .img-box {
   margin-top:-45%;
 }
+   .menu-icon{
+    display:block;
+  }
 
 }
 
@@ -37,4 +40,12 @@
    .profil-img:hover .img-box {
       margin-top:-85%;
    }
+   
+   .menu-icon{
+    display:block;
+  }
+   
+   .header-right{
+    display:none;
+  }
 }
