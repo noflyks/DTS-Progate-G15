@@ -1,5 +1,5 @@
 @media all and (max-width: 1000px) {
-   .profil-img {
+   .profil-img, .ekstra {
     width: 50%;
     margin-bottom: 50px;
   }
@@ -21,10 +21,6 @@
 
   .ekstra-1{
     height: 1330px;
-  }
-
-  .ekstra, .extra{
-    width: 100%;
   }
 
  .profil-img:hover .img-box {
