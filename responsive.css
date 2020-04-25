@@ -12,7 +12,7 @@
  .header-right {
   display: none;
   }
-  .profil-img {
+  .profil-img, ekstra {
     width: 100%;
   }
   .heading-extra h2{
@@ -22,9 +22,6 @@
   .ekstra-1{
     height: 1330px;
   }
-   .ekstra, .extra{
-      width:100%;
-   }
 
  .profil-img:hover .img-box {
   margin-top:-45%;
