@@ -35,6 +35,6 @@
 
 @media all and (max-width: 460px) {
    .profil-img:hover .img-box {
-      margin-top:-70%;
+      margin-top:-85%;
    }
 }
