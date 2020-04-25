@@ -137,7 +137,6 @@ main h1{
 }
 
 .ekstra-1 {
-  height: 500px;
   padding-bottom: 80px;
   background-color: #fff;
   text-align: center;
@@ -161,9 +160,6 @@ main h1{
 
 .ekstra-icon {
   position: relative;
-  margin-right: 20px;
-
-
 }
 
 .ekstra-icon p:hover {
