@@ -14,14 +14,15 @@
   }
   .profil-img, .ekstra {
     width: 100%;
+    margin-bottom: 50px;
   }
   .heading-extra h2{
     font-size: 30px;
   }
 
-  .ekstra-1{
+  /*.ekstra-1{
     height: 1330px;
-  }
+  }*/
 
  .profil-img:hover .img-box {
   margin-top:-45%;
@@ -43,5 +44,10 @@
    
    .header-right{
     display:none;
+  }
+   
+   .profil-img, .ekstra {
+    width: 100%;
+    margin-bottom: 50px;
   }
 }
