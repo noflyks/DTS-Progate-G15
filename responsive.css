@@ -22,6 +22,9 @@
   .ekstra-1{
     height: 1330px;
   }
+   .ekstra, .extra{
+      width:100%;
+   }
 
  .profil-img:hover .img-box {
   margin-top:-45%;
