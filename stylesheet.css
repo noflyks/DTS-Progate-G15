@@ -191,6 +191,7 @@ main h1{
 .clear{
   clear: left;
 }
+
 .extra{
   padding-bottom: 90px;
   text-align: center;
@@ -205,13 +206,12 @@ main h1{
 
 .heading-extra h2{
   font-family: 'Oleo Script', cursive;
-  font-size: 50px;
+  font-size:50px;
 }
 
 .profil-img {
   width:19%;
-  height:320px;
-  margin-right: 10px;
+  height:300px;
   overflow:hidden;
   float:left;
   position: relative;
