@@ -2,19 +2,19 @@
    .profil-img, .ekstra {
     width: 50%;
     margin-bottom: 50px;
-  }
- .heading h2 {
-    font-size: 20px;
-  }
-  .menu-icon{
-      display:none;
    }
+
+   .heading h2 {
+      font-size: 20px;
+    }
+
 }
 
 @media all and (max-width: 670px) {
  .header-right {
   display: none;
   }
+  
   .profil-img, .ekstra {
     width: 100%;
     margin-bottom: 50px;
@@ -30,7 +30,7 @@
  .profil-img:hover .img-box {
   margin-top:-45%;
 }
-   .menu-icon{
+   .container .menu-icon{
     display:block;
   }
 
@@ -40,11 +40,12 @@
    .profil-img:hover .img-box {
       margin-top:-85%;
    }
-   
-   .menu-icon{
+
+
+   .container .menu-icon{
     display:block;
   }
-   
+
    .header-right{
     display:none;
   }

@@ -37,6 +37,7 @@ header {
   margin-top: -14px;
 }
 
+
 .header-left img {
   width: 150px;
   margin-bottom: 10px;
@@ -207,9 +208,9 @@ main h1{
 }
 
 .profil-img {
-  width:19%;
-  height:300px;
-  overflow:hidden;
+  width: 20%;
+  height: 320px;
+  overflow: hidden;
   float:left;
   position: relative;
 }
@@ -229,7 +230,7 @@ main h1{
   height: 180px;
 }
 .profil-content p{
-  font-family: 'Rancho', cursive;
+  font-family: 'Rancho', 'cursive';
   text-align: justify;
   font-size: 19px;
 }
@@ -281,10 +282,22 @@ main h1{
 
 .footer-right {
     float: right;
+    padding: 20px;
+}
+
+.copyright > p{
+  color: black;
 }
 
 .btn-share:hover {
     margin: 0 auto;
+}
+
+.btn-share > .btn{
+  width: 60px;
+  text-align: center;
+  padding: 5px;
+  color: black;
 }
 
 .copyright {
@@ -292,4 +305,12 @@ main h1{
     border-top: 2px solid red;
     color: white;
     margin: 0px;
+}
+
+.container > .menu-icon {
+  color: white;
+  float: right;
+  font-size: 25px;
+  padding: 21px 0;
+  display: none;
 }
